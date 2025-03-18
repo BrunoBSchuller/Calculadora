@@ -4,7 +4,7 @@
 
 Uma calculadora de console simples que permite realizar as quatros operações, além de visualizar a tabuada e o histórico de operações
 
-##Funcionalidades
+## Funcionalidades
 
 - **Operações Básicas**: Realize, somas, subtrações, multiplicações e divisões com facilidade.
 - **Suporte a Decimais**: Trabalho ccom números com casas decimais
