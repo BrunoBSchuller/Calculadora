@@ -90,7 +90,6 @@ namespace Calculador.ConsoleApp
                 if (opcao == "1")
                 {
                     resultado = primeiroNumero + segundoNumero;
-                    historicooperaçoes[contadorHistorico] = $"{primeiroNumero} + {segundoNumero} = {resultado}";
                 }
 
 
